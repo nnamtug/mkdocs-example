@@ -27,7 +27,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install git+https://@github.com/squidfunk/mkdocs-material.git
-#      - run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt
       - run: mkdocs build
       - name: Build And Deploy
         id: builddeploy
