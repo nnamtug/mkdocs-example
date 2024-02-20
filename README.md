@@ -13,4 +13,4 @@ https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-ac
 
     <username>.gitlab.io/<repository>
 
-https://nnamtug.gitlab.io/mkdocs-example
+https://nnamtug.github.io/mkdocs-example/
